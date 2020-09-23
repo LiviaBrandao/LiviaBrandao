@@ -17,3 +17,9 @@ Here are some ideas to get you started:
 
 ### <img src="http://bestanimations.com/Animals/Mammals/Bears/panda/cute-panda-bear-cartoon-gif-1.gif" width="30px"> **✨About me✨** &nbsp;<img src="http://bestanimations.com/Animals/Mammals/Bears/panda/cute-panda-bear-cartoon-gif-1.gif" width="30px">
 
+<p>
+  <em>
+    I am a Systems development's student at the <a href="https://cotuca.unicamp.br/cotuca/" style="color:#bc42f5"> <b>Colégio Técnico de Campinas - UNICAMP (COTUCA),</b> </a> Brazil.  
+  </em>  
+</p>
+
