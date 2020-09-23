@@ -1,4 +1,4 @@
-# Hi there, I'm Lívia! <img src="https://media.giphy.com/media/f6VToc2NbeedZwZSOd/giphy.gif" width="29px" margin-bottom="0px"> 
+# Hi there, I'm Lívia! <img src="https://github.com/LiviaBrandao/LiviaBrandao/blob/master/assets/kitty.gif" width="34px">
 
 <!--
 **LiviaBrandao/LiviaBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
