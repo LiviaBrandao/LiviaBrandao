@@ -1,4 +1,4 @@
-# Hi there, I'm Lívia! <img src="https://github.com/LiviaBrandao/LiviaBrandao/blob/master/assets/kitty.gif" width="34px">
+# Hi there, I'm Lívia! <img src="https://github.com/LiviaBrandao/LiviaBrandao/blob/master/assets/kitty.gif" href="https://media.giphy.com/media/kZqbBT64ECtjy/giphy.gif" width="34px">
 
 <!--
 **LiviaBrandao/LiviaBrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### <img src="http://bestanimations.com/Animals/Mammals/Bears/panda/cute-panda-bear-cartoon-gif-1.gif" width="30px"> **✨About me✨** &nbsp;<img src="http://bestanimations.com/Animals/Mammals/Bears/panda/cute-panda-bear-cartoon-gif-1.gif" width="30px">
+
