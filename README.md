@@ -32,6 +32,12 @@ I'm Lívia, and I'm passionate about backend development with Java and Kotlin. A
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <div align="center"> 
-  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LiviaBrandao&show_icons=true&count_private=true&border_color=5c5d56&title_color=03b303&icon_color=528c9a&text_color=03b303&bg_color=000500" alt="Nataly Carvalho github stats" /> 
+  <img width="54%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LiviaBrandao&show_icons=true&count_private=true&border_color=5c5d56&title_color=03b303&icon_color=528c9a&text_color=03b303&bg_color=000500" alt="" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiviaBrandao&layout=compact&show_icons=true&count_private=true&border_color=5c5d56&title_color=03b303&icon_color=919919&text_color=528c9a&bg_color=000500" />
 </div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=LiviaBrandao&bg_color=000500&color=03b303&line=919919&point=919919&area=true&point=03b303&area=true&border_color=5c5d56)
+
+
+
+
