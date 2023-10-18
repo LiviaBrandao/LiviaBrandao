@@ -9,7 +9,7 @@ I'm Lívia, and I'm passionate about backend development with Java and Kotlin. A
 - 🔭 I'm currently studying for the Oracle Java Certification.
 - 💬 Feel free to ask me about Java, Spring, Kotlin, and SQL.
 - 😄 Pronouns: She/Her
-- 📫 Take a look at my [Linkedin](www.linkedin.com/in/lívia-brandão-1552281a3)
+- 📫 Take a look at my [Linkedin](https://www.linkedin.com/in/dev-livia-brandao)
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>  Skills</b>
 <div style="display: flex; gap: 10px;">
